@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/burninghott/static/css/main.fd40a3e1.css",
+    "main.js": "/burninghott/static/js/main.821dca04.js",
+    "index.html": "/burninghott/index.html",
+    "main.fd40a3e1.css.map": "/burninghott/static/css/main.fd40a3e1.css.map",
+    "main.821dca04.js.map": "/burninghott/static/js/main.821dca04.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd40a3e1.css",
+    "static/js/main.821dca04.js"
+  ]
+}
